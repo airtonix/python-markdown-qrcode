@@ -19,10 +19,11 @@ returns
 
 """
 
-import tempfile
 import markdown
+import Image
 import re
-from QrCodeImageWriter import *
+from base64 import b64encode
+
 
 def makeExtension(configs={}):
     return QrCodeExtension(configs=configs)
@@ -81,15 +82,39 @@ class QrCodeInlinePattern(markdown.inlinepatterns.Pattern):
   def handleMatch(self, match):
     return self.renderImageTag(match)
 
-  def renderImageTag(match = None):
+  def renderImageTag(self, match = None):
     if match :
       qrcodeSourceData = match.group('strDataToEncode')
       qrcodePixelSize = match.group('intPixelSize')
 
       element = markdown.etree.Element('img')
-      element.set("src", QrCodeImageWriter( self.getConfig("imageStoragePath"), qrcodeSourceData, qrcodePixelSize ) )
+      element.set("src", self.make_image(qrcodeSourceData, qrcodePixelSize ) )
       element.set("title", qrcodeSourceData )
       return "element"
+
+  def make_image(self, data, size):
+    qrCodeObject = QRCode(pixel_size, QRErrorCorrectLevel.L)
+    qrCodeObject.addData( value )
+    qrCodeObject.make()
+    qrCodeImage = qrCodeObject.makeImage(
+      pixel_size = pixel_size,
+      dark_colour = "#000000"
+    )
+
+    query_hash = hashlib.md5()
+    query_hash.update( value )
+    md5 = query_hash.hexdigest()
+
+    filename = "%s.png" % md5
+    filepath = os.path.join( tempfile.mkdtemp() , filename)
+
+    qrCodeImage.save( filepath )
+    qrCodeImage_File = open(filepath, "r")
+    qrCodeImage_FileData = qrCodeImage_File.read()
+    qrCodeImage_File.close()
+
+    return "data:image/png;base64,%s" % b64encode( qrCodeImage_FileData )
+
 
 PATTERN_QRCODE = r"""\[(?P<intPixelSize>[\d]*)#(?P<strDataToEncode>[^*]+)\]"""
 REGEX_QRCODE = re.compile( PATTERN_QRCODE )
