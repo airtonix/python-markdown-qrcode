@@ -1,0 +1,429 @@
+Downloading/unpacking Markdown
+  Getting page http://pypi.python.org/simple/Markdown
+  URLs to search for versions for Markdown:
+  * http://pypi.python.org/simple/Markdown
+  Getting page http://www.freewisdom.org/projects/python-markdown/
+  Skipping page http://downloads.sourceforge.net/python-markdown/markdown-1.6a.zip (from http://pypi.python.org/simple/Markdown/) because of Content-Type: 
+  Getting page http://www.freewisdom.org/projects/python-markdown
+  Skipping page http://pypi.python.org/packages/source/M/Markdown/Markdown-2.0.3.tar.gz (from http://pypi.python.org/simple/Markdown/) because of Content-Type: application/x-gzip
+  Skipping page http://pypi.python.org/packages/source/M/Markdown/Markdown-2.0.tar.gz (from http://pypi.python.org/simple/Markdown/) because of Content-Type: application/x-gzip
+  Skipping page http://pypi.python.org/packages/source/M/Markdown/Markdown-2.0.1.tar.gz (from http://pypi.python.org/simple/Markdown/) because of Content-Type: application/x-gzip
+  Getting page https://sourceforge.net/project/showfiles.php?group_id=153041
+  Skipping page http://pypi.python.org/packages/source/M/Markdown/Markdown-2.0.2.tar.gz (from http://pypi.python.org/simple/Markdown/) because of Content-Type: application/x-gzip
+  Analyzing links from page http://pypi.python.org/simple/Markdown/
+    Found link http://pypi.python.org/packages/source/M/Markdown/Markdown-2.0.1.zip#md5=cf948489ca763f4180245c62e23cd97b (from http://pypi.python.org/simple/Markdown/), version: 2.0.1
+    Skipping link http://pypi.python.org/packages/any/M/Markdown/Markdown-2.0.win32.exe#md5=106839ccef3b40f59ff03d7ad43346bb (from http://pypi.python.org/simple/Markdown/); unknown archive format: .exe
+    Skipping link http://pypi.python.org/packages/any/M/Markdown/Markdown-2.0.2.win32.exe#md5=5e1afafbfffdbe0aacc0050c6c551475 (from http://pypi.python.org/simple/Markdown/); unknown archive format: .exe
+    Skipping link http://pypi.python.org/packages/any/M/Markdown/markdown-1.7.win32.exe#md5=a64e3615d973f21f8ca3cfb571e567ec (from http://pypi.python.org/simple/Markdown/); unknown archive format: .exe
+    Found link http://pypi.python.org/packages/source/M/Markdown/Markdown-2.0.2.zip#md5=a8c8c4fd317ee7a06c9b9b7347b3872d (from http://pypi.python.org/simple/Markdown/), version: 2.0.2
+    Found link http://pypi.python.org/packages/source/M/Markdown/Markdown-2.0.tar.gz#md5=4db8d332f531de10370ebaf1d2615786 (from http://pypi.python.org/simple/Markdown/), version: 2.0
+    Found link http://pypi.python.org/packages/source/M/Markdown/markdown-1.7.zip#md5=99b1721d723e8c64381fc023d23b202a (from http://pypi.python.org/simple/Markdown/), version: 1.7
+    Found link http://pypi.python.org/packages/source/M/Markdown/Markdown-2.0.3.tar.gz#md5=751e8055be2433dfd1a82e0fb1b12f13 (from http://pypi.python.org/simple/Markdown/), version: 2.0.3
+    Skipping link http://pypi.python.org/packages/any/M/Markdown/Markdown-2.0.3.win32.exe#md5=def85b9bd03ce80815098f0dce8067ae (from http://pypi.python.org/simple/Markdown/); unknown archive format: .exe
+    Found link http://pypi.python.org/packages/source/M/Markdown/markdown-1.7.tar.gz#md5=4297ebcdedc92b4bc7bc9ecd01053565 (from http://pypi.python.org/simple/Markdown/), version: 1.7
+    Skipping link http://pypi.python.org/packages/any/M/Markdown/Markdown-2.0.1.win32.exe#md5=aff3e3a57ae7debc6f6158a57b4b0a65 (from http://pypi.python.org/simple/Markdown/); unknown archive format: .exe
+    Found link http://pypi.python.org/packages/source/M/Markdown/Markdown-2.0.3.zip#md5=122418893e21e91109edbf6e082f830d (from http://pypi.python.org/simple/Markdown/), version: 2.0.3
+    Found link http://pypi.python.org/packages/source/M/Markdown/Markdown-2.0.zip#md5=5dbf9bd2c3e03c8f454995ad8d5694e8 (from http://pypi.python.org/simple/Markdown/), version: 2.0
+    Found link http://pypi.python.org/packages/source/M/Markdown/Markdown-2.0.1.tar.gz#md5=bfdb2171faeb410d6099653da90b9bf7 (from http://pypi.python.org/simple/Markdown/), version: 2.0.1
+    Found link http://pypi.python.org/packages/source/M/Markdown/Markdown-2.0.2.tar.gz#md5=3b4ae6bbb241b5e31667b5044d3a6104 (from http://pypi.python.org/simple/Markdown/), version: 2.0.2
+    Skipping link http://www.freewisdom.org/projects/python-markdown/ (from http://pypi.python.org/simple/Markdown/); not a file
+    Found link http://downloads.sourceforge.net/python-markdown/markdown-1.6a.zip (from http://pypi.python.org/simple/Markdown/), version: 1.6a
+    Skipping link http://www.freewisdom.org/projects/python-markdown (from http://pypi.python.org/simple/Markdown/); not a file
+    Found link http://pypi.python.org/packages/source/M/Markdown/Markdown-2.0.3.tar.gz (from http://pypi.python.org/simple/Markdown/), version: 2.0.3
+    Found link http://pypi.python.org/packages/source/M/Markdown/Markdown-2.0.tar.gz (from http://pypi.python.org/simple/Markdown/), version: 2.0
+    Found link http://pypi.python.org/packages/source/M/Markdown/Markdown-2.0.1.tar.gz (from http://pypi.python.org/simple/Markdown/), version: 2.0.1
+    Skipping link https://sourceforge.net/project/showfiles.php?group_id=153041 (from http://pypi.python.org/simple/Markdown/); unknown archive format: .php
+    Found link http://pypi.python.org/packages/source/M/Markdown/Markdown-2.0.2.tar.gz (from http://pypi.python.org/simple/Markdown/), version: 2.0.2
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Available_Extensions (from http://pypi.python.org/simple/Markdown/); not a file
+  Analyzing links from page http://www.freewisdom.org/projects/python-markdown/
+    Skipping link http://www.freewisdom.org/cgi-bin/python-markdown.cgi?p=sputnik/style.css (from http://www.freewisdom.org/projects/python-markdown/); unknown archive format: .cgi
+    Skipping link http://www.freewisdom.org/cgi-bin/python-markdown.cgi?p=icons/sputnik.png (from http://www.freewisdom.org/projects/python-markdown/); unknown archive format: .cgi
+    Skipping link http://www.freewisdom.org/projects/python-markdown/history.rss (from http://www.freewisdom.org/projects/python-markdown/); unknown archive format: .rss
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Overview.rss (from http://www.freewisdom.org/projects/python-markdown/); unknown archive format: .rss
+    Skipping link http://www.freewisdom.org/projects/python-markdown/sputnik/login&amp;next=Overview (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/sputnik/register (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/ (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Features (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Credits (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/License (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/This_Wiki (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/News (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Releases (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Change_Log (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/_history (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Installation (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Command_Line (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Using_as_a_Module (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Integration (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Reporting_Bugs (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Mailing_List (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Source_Code (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Test_Suite (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Extensions (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Writing_Extensions (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Available_Extensions (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Related_Projects (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Overview.history (from http://www.freewisdom.org/projects/python-markdown/); unknown archive format: .history
+    Skipping link http://daringfireball.net/projects/markdown/ (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://pypi.python.org/pypi/Markdown (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://spu.tnik.org/ (from http://www.freewisdom.org/projects/python-markdown/); not a file
+    Skipping link http://validator.w3.org/check?uri=referer (from http://www.freewisdom.org/projects/python-markdown/); not a file
+  Analyzing links from page http://www.freewisdom.org/projects/python-markdown
+    Skipping link http://www.freewisdom.org/cgi-bin/python-markdown.cgi?p=sputnik/style.css (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .cgi
+    Skipping link http://www.freewisdom.org/cgi-bin/python-markdown.cgi?p=icons/sputnik.png (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .cgi
+    Skipping link http://www.freewisdom.org/projects/python-markdown/history.rss (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .rss
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Overview.rss (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .rss
+    Skipping link http://www.freewisdom.org/projects/python-markdown/sputnik/login&amp;next=Overview (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/sputnik/register (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/ (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Features (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Credits (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/License (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/This_Wiki (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/News (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Releases (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Change_Log (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/_history (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Installation (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Command_Line (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Using_as_a_Module (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Integration (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Reporting_Bugs (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Mailing_List (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Source_Code (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Test_Suite (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Extensions (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Writing_Extensions (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Available_Extensions (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Related_Projects (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Overview.history (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .history
+    Skipping link http://daringfireball.net/projects/markdown/ (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://pypi.python.org/pypi/Markdown (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://spu.tnik.org/ (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://validator.w3.org/check?uri=referer (from http://www.freewisdom.org/projects/python-markdown); not a file
+  Analyzing links from page http://www.freewisdom.org/projects/python-markdown
+    Skipping link http://www.freewisdom.org/cgi-bin/python-markdown.cgi?p=sputnik/style.css (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .cgi
+    Skipping link http://www.freewisdom.org/cgi-bin/python-markdown.cgi?p=icons/sputnik.png (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .cgi
+    Skipping link http://www.freewisdom.org/projects/python-markdown/history.rss (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .rss
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Overview.rss (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .rss
+    Skipping link http://www.freewisdom.org/projects/python-markdown/sputnik/login&amp;next=Overview (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/sputnik/register (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/ (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Features (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Credits (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/License (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/This_Wiki (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/News (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Releases (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Change_Log (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/_history (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Installation (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Command_Line (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Using_as_a_Module (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Integration (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Reporting_Bugs (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Mailing_List (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Source_Code (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Test_Suite (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Extensions (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Writing_Extensions (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Available_Extensions (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Related_Projects (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Overview.history (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .history
+    Skipping link http://daringfireball.net/projects/markdown/ (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://pypi.python.org/pypi/Markdown (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://spu.tnik.org/ (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://validator.w3.org/check?uri=referer (from http://www.freewisdom.org/projects/python-markdown); not a file
+  Analyzing links from page http://www.freewisdom.org/projects/python-markdown
+    Skipping link http://www.freewisdom.org/cgi-bin/python-markdown.cgi?p=sputnik/style.css (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .cgi
+    Skipping link http://www.freewisdom.org/cgi-bin/python-markdown.cgi?p=icons/sputnik.png (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .cgi
+    Skipping link http://www.freewisdom.org/projects/python-markdown/history.rss (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .rss
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Overview.rss (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .rss
+    Skipping link http://www.freewisdom.org/projects/python-markdown/sputnik/login&amp;next=Overview (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/sputnik/register (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/ (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Features (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Credits (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/License (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/This_Wiki (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/News (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Releases (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Change_Log (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/_history (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Installation (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Command_Line (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Using_as_a_Module (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Integration (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Reporting_Bugs (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Mailing_List (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Source_Code (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Test_Suite (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Extensions (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Writing_Extensions (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Available_Extensions (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Related_Projects (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Overview.history (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .history
+    Skipping link http://daringfireball.net/projects/markdown/ (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://pypi.python.org/pypi/Markdown (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://spu.tnik.org/ (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://validator.w3.org/check?uri=referer (from http://www.freewisdom.org/projects/python-markdown); not a file
+  Analyzing links from page http://www.freewisdom.org/projects/python-markdown
+    Skipping link http://www.freewisdom.org/cgi-bin/python-markdown.cgi?p=sputnik/style.css (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .cgi
+    Skipping link http://www.freewisdom.org/cgi-bin/python-markdown.cgi?p=icons/sputnik.png (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .cgi
+    Skipping link http://www.freewisdom.org/projects/python-markdown/history.rss (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .rss
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Overview.rss (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .rss
+    Skipping link http://www.freewisdom.org/projects/python-markdown/sputnik/login&amp;next=Overview (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/sputnik/register (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/ (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Features (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Credits (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/License (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/This_Wiki (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/News (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Releases (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Change_Log (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/_history (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Installation (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Command_Line (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Using_as_a_Module (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Integration (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Reporting_Bugs (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Mailing_List (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Source_Code (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Test_Suite (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Extensions (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Writing_Extensions (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Available_Extensions (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Related_Projects (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Overview.history (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .history
+    Skipping link http://daringfireball.net/projects/markdown/ (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://pypi.python.org/pypi/Markdown (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://spu.tnik.org/ (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://validator.w3.org/check?uri=referer (from http://www.freewisdom.org/projects/python-markdown); not a file
+  Analyzing links from page http://sourceforge.net/projects/python-markdown/files/
+    Skipping link http://a.fsdn.com/con/css/droppy.css?1296748840 (from http://sourceforge.net/projects/python-markdown/files/); unknown archive format: .css
+    Skipping link http://a.fsdn.com/con/css/dist.css?1296748840 (from http://sourceforge.net/projects/python-markdown/files/); unknown archive format: .css
+    Skipping link http://a.fsdn.com/con/css/ie.css?1296748840 (from http://sourceforge.net/projects/python-markdown/files/); unknown archive format: .css
+    Skipping link http://sourceforge.net/ (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link https://sourceforge.net/account/login.php (from http://sourceforge.net/projects/python-markdown/files/); unknown archive format: .php
+    Skipping link http://sourceforge.net/account/registration/ (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/directory/ (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/develop/ (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/register/ (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/blog/ (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://p.sf.net/sourceforge/getsupport (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/about (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/softwaremap/ (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/projects/python-markdown/ (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/users/qaramazov (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/users/waylanhl (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/projects/python-markdown/files/ (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/projects/python-markdown/support (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/projects/python-markdown/develop (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link https://sourceforge.net/apps/trac/sourceforge/wiki/Release%20files%20for%20download#SCP (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/projects/python-markdown/files/markdown/2.0.3/Markdown-2.0.3.zip/download (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/api/file/index/project-id/153041/mtime/desc/limit/20/rss (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/projects/python-markdown/files/markdown/ (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/projects/python-markdown/files/markdown/stats/timeline (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/support (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://geek.net/careers/ (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://geek.net/advertising/ (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/search/ (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/top/topalltime.php?type=downloads (from http://sourceforge.net/projects/python-markdown/files/); unknown archive format: .php
+    Skipping link http://sourceforge.net/top/mostactive.php (from http://sourceforge.net/projects/python-markdown/files/); unknown archive format: .php
+    Skipping link http://sourceforge.net/people/ (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/new/new_projects.php (from http://sourceforge.net/projects/python-markdown/files/); unknown archive format: .php
+    Skipping link http://twitter.com/sourceforge (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/apps/trac/sourceforge/wiki/WikiStart (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/apps/trac/sourceforge/wiki/Support (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/apps/wordpress/sourceforge/ (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://geek.net (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://p.sf.net/sourceforge/terms (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://p.sf.net/sourceforge/privacy (from http://sourceforge.net/projects/python-markdown/files/); not a file
+    Skipping link http://sourceforge.net/projects/python-markdown/files/%3c%%20if%20%28this.type%20===%20%27f%27%29%20%7b%20%%3e%3c%=%20this.download_url%20%%3e%3c%%20%7d%20else%20%7b%20%%3e%3c%=%20this.url%20%%3e%3c%%20%7d%20%%3e (from http://sourceforge.net/projects/python-markdown/files/); unknown archive format: .url%20%%3e%3c%%20%7d%20%%3e
+    Skipping link http://sourceforge.net/projects/python-markdown/files/%3c%=%20this.legacy_release_notes%20%%3e (from http://sourceforge.net/projects/python-markdown/files/); unknown archive format: .legacy_release_notes%20%%3e
+  Analyzing links from page http://www.freewisdom.org/projects/python-markdown
+    Skipping link http://www.freewisdom.org/cgi-bin/python-markdown.cgi?p=sputnik/style.css (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .cgi
+    Skipping link http://www.freewisdom.org/cgi-bin/python-markdown.cgi?p=icons/sputnik.png (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .cgi
+    Skipping link http://www.freewisdom.org/projects/python-markdown/history.rss (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .rss
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Overview.rss (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .rss
+    Skipping link http://www.freewisdom.org/projects/python-markdown/sputnik/login&amp;next=Overview (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/sputnik/register (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/ (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Features (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Credits (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/License (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/This_Wiki (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/News (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Releases (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Change_Log (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/_history (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Installation (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Command_Line (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Using_as_a_Module (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Integration (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Reporting_Bugs (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Mailing_List (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Source_Code (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Test_Suite (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Extensions (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Writing_Extensions (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Available_Extensions (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Related_Projects (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://www.freewisdom.org/projects/python-markdown/Overview.history (from http://www.freewisdom.org/projects/python-markdown); unknown archive format: .history
+    Skipping link http://daringfireball.net/projects/markdown/ (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://pypi.python.org/pypi/Markdown (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://spu.tnik.org/ (from http://www.freewisdom.org/projects/python-markdown); not a file
+    Skipping link http://validator.w3.org/check?uri=referer (from http://www.freewisdom.org/projects/python-markdown); not a file
+  Using version 2.0.3 (newest of versions: 2.0.3, 2.0.3, 2.0.3, 2.0.2, 2.0.2, 2.0.2, 2.0.1, 2.0.1, 2.0.1, 2.0, 2.0, 2.0, 1.7, 1.7, 1.6a)
+  Downloading from URL http://pypi.python.org/packages/source/M/Markdown/Markdown-2.0.3.tar.gz#md5=751e8055be2433dfd1a82e0fb1b12f13 (from http://pypi.python.org/simple/Markdown/)
+  Running setup.py egg_info for package Markdown
+    running egg_info
+    creating pip-egg-info/Markdown.egg-info
+    writing pip-egg-info/Markdown.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/Markdown.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/Markdown.egg-info/dependency_links.txt
+    writing manifest file 'pip-egg-info/Markdown.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'pip-egg-info/Markdown.egg-info/SOURCES.txt'
+    writing manifest file 'pip-egg-info/Markdown.egg-info/SOURCES.txt'
+  Source in ./build/Markdown has version 2.0.3, which satisfies requirement Markdown
+Installing collected packages: Markdown
+  Running setup.py install for Markdown
+    Running command /usr/bin/python -c "import setuptools; __file__='/home/airtonix/Dev/mdx_qrcode/build/Markdown/setup.py'; execfile('/home/airtonix/Dev/mdx_qrcode/build/Markdown/setup.py')" install --single-version-externally-managed --record /tmp/pip-vpcVj1-record/install-record.txt --install-headers /home/airtonix/Dev/mdx_qrcode/lib/include
+    running install
+    running build
+    running build_py
+    creating build
+    creating build/lib.linux-i686-2.6
+    creating build/lib.linux-i686-2.6/markdown
+    copying markdown/etree_loader.py -> build/lib.linux-i686-2.6/markdown
+    copying markdown/commandline.py -> build/lib.linux-i686-2.6/markdown
+    copying markdown/blockprocessors.py -> build/lib.linux-i686-2.6/markdown
+    copying markdown/blockparser.py -> build/lib.linux-i686-2.6/markdown
+    copying markdown/__init__.py -> build/lib.linux-i686-2.6/markdown
+    copying markdown/inlinepatterns.py -> build/lib.linux-i686-2.6/markdown
+    copying markdown/preprocessors.py -> build/lib.linux-i686-2.6/markdown
+    copying markdown/odict.py -> build/lib.linux-i686-2.6/markdown
+    copying markdown/postprocessors.py -> build/lib.linux-i686-2.6/markdown
+    copying markdown/html4.py -> build/lib.linux-i686-2.6/markdown
+    copying markdown/treeprocessors.py -> build/lib.linux-i686-2.6/markdown
+    creating build/lib.linux-i686-2.6/markdown/extensions
+    copying markdown/extensions/rss.py -> build/lib.linux-i686-2.6/markdown/extensions
+    copying markdown/extensions/def_list.py -> build/lib.linux-i686-2.6/markdown/extensions
+    copying markdown/extensions/extra.py -> build/lib.linux-i686-2.6/markdown/extensions
+    copying markdown/extensions/fenced_code.py -> build/lib.linux-i686-2.6/markdown/extensions
+    copying markdown/extensions/toc.py -> build/lib.linux-i686-2.6/markdown/extensions
+    copying markdown/extensions/__init__.py -> build/lib.linux-i686-2.6/markdown/extensions
+    copying markdown/extensions/codehilite.py -> build/lib.linux-i686-2.6/markdown/extensions
+    copying markdown/extensions/wikilinks.py -> build/lib.linux-i686-2.6/markdown/extensions
+    copying markdown/extensions/footnotes.py -> build/lib.linux-i686-2.6/markdown/extensions
+    copying markdown/extensions/headerid.py -> build/lib.linux-i686-2.6/markdown/extensions
+    copying markdown/extensions/meta.py -> build/lib.linux-i686-2.6/markdown/extensions
+    copying markdown/extensions/abbr.py -> build/lib.linux-i686-2.6/markdown/extensions
+    copying markdown/extensions/imagelinks.py -> build/lib.linux-i686-2.6/markdown/extensions
+    copying markdown/extensions/tables.py -> build/lib.linux-i686-2.6/markdown/extensions
+    copying markdown/extensions/html_tidy.py -> build/lib.linux-i686-2.6/markdown/extensions
+    running build_scripts
+    creating build/scripts-2.6
+    copying and adjusting bin/markdown -> build/scripts-2.6
+    changing mode of build/scripts-2.6/markdown from 644 to 755
+    running install_lib
+    creating /usr/local/lib/python2.6/dist-packages/markdown
+    error: could not create '/usr/local/lib/python2.6/dist-packages/markdown': Permission denied
+    Complete output from command /usr/bin/python -c "import setuptools; __file__='/home/airtonix/Dev/mdx_qrcode/build/Markdown/setup.py'; execfile('/home/airtonix/Dev/mdx_qrcode/build/Markdown/setup.py')" install --single-version-externally-managed --record /tmp/pip-vpcVj1-record/install-record.txt --install-headers /home/airtonix/Dev/mdx_qrcode/lib/include:
+    running install
+
+running build
+
+running build_py
+
+creating build
+
+creating build/lib.linux-i686-2.6
+
+creating build/lib.linux-i686-2.6/markdown
+
+copying markdown/etree_loader.py -> build/lib.linux-i686-2.6/markdown
+
+copying markdown/commandline.py -> build/lib.linux-i686-2.6/markdown
+
+copying markdown/blockprocessors.py -> build/lib.linux-i686-2.6/markdown
+
+copying markdown/blockparser.py -> build/lib.linux-i686-2.6/markdown
+
+copying markdown/__init__.py -> build/lib.linux-i686-2.6/markdown
+
+copying markdown/inlinepatterns.py -> build/lib.linux-i686-2.6/markdown
+
+copying markdown/preprocessors.py -> build/lib.linux-i686-2.6/markdown
+
+copying markdown/odict.py -> build/lib.linux-i686-2.6/markdown
+
+copying markdown/postprocessors.py -> build/lib.linux-i686-2.6/markdown
+
+copying markdown/html4.py -> build/lib.linux-i686-2.6/markdown
+
+copying markdown/treeprocessors.py -> build/lib.linux-i686-2.6/markdown
+
+creating build/lib.linux-i686-2.6/markdown/extensions
+
+copying markdown/extensions/rss.py -> build/lib.linux-i686-2.6/markdown/extensions
+
+copying markdown/extensions/def_list.py -> build/lib.linux-i686-2.6/markdown/extensions
+
+copying markdown/extensions/extra.py -> build/lib.linux-i686-2.6/markdown/extensions
+
+copying markdown/extensions/fenced_code.py -> build/lib.linux-i686-2.6/markdown/extensions
+
+copying markdown/extensions/toc.py -> build/lib.linux-i686-2.6/markdown/extensions
+
+copying markdown/extensions/__init__.py -> build/lib.linux-i686-2.6/markdown/extensions
+
+copying markdown/extensions/codehilite.py -> build/lib.linux-i686-2.6/markdown/extensions
+
+copying markdown/extensions/wikilinks.py -> build/lib.linux-i686-2.6/markdown/extensions
+
+copying markdown/extensions/footnotes.py -> build/lib.linux-i686-2.6/markdown/extensions
+
+copying markdown/extensions/headerid.py -> build/lib.linux-i686-2.6/markdown/extensions
+
+copying markdown/extensions/meta.py -> build/lib.linux-i686-2.6/markdown/extensions
+
+copying markdown/extensions/abbr.py -> build/lib.linux-i686-2.6/markdown/extensions
+
+copying markdown/extensions/imagelinks.py -> build/lib.linux-i686-2.6/markdown/extensions
+
+copying markdown/extensions/tables.py -> build/lib.linux-i686-2.6/markdown/extensions
+
+copying markdown/extensions/html_tidy.py -> build/lib.linux-i686-2.6/markdown/extensions
+
+running build_scripts
+
+creating build/scripts-2.6
+
+copying and adjusting bin/markdown -> build/scripts-2.6
+
+changing mode of build/scripts-2.6/markdown from 644 to 755
+
+running install_lib
+
+creating /usr/local/lib/python2.6/dist-packages/markdown
+
+error: could not create '/usr/local/lib/python2.6/dist-packages/markdown': Permission denied
+
+----------------------------------------
+Command /usr/bin/python -c "import setuptools; __file__='/home/airtonix/Dev/mdx_qrcode/build/Markdown/setup.py'; execfile('/home/airtonix/Dev/mdx_qrcode/build/Markdown/setup.py')" install --single-version-externally-managed --record /tmp/pip-vpcVj1-record/install-record.txt --install-headers /home/airtonix/Dev/mdx_qrcode/lib/include failed with error code 1
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 252, in main
+    self.run(options, args)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 410, in run
+    requirement_set.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 2017, in install
+    requirement.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 1515, in install
+    cwd=self.source_dir, filter_stdout=self._filter_install, show_stdout=False)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 3543, in call_subprocess
+    % (command_desc, proc.returncode))
+InstallationError: Command /usr/bin/python -c "import setuptools; __file__='/home/airtonix/Dev/mdx_qrcode/build/Markdown/setup.py'; execfile('/home/airtonix/Dev/mdx_qrcode/build/Markdown/setup.py')" install --single-version-externally-managed --record /tmp/pip-vpcVj1-record/install-record.txt --install-headers /home/airtonix/Dev/mdx_qrcode/lib/include failed with error code 1
