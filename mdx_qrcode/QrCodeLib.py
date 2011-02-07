@@ -46,20 +46,24 @@ class QRCode:
         self.moduleCount = 0
         self.dataCache = None
         self.dataList = []
+
     def addData(self, data):
         newData = QR8bitByte(data)
         self.dataList.append(newData)
         self.dataCache = None
+
     def isDark(self, row, col):
         if (row < 0 or self.moduleCount <= row or col < 0 or self.moduleCount <= col):
             raise Exception("%s,%s - %s" % (row, col, self.moduleCount))
         return self.modules[row][col]
+
     def getModuleCount(self):
         return self.moduleCount
+
     def make(self):
         self.makeImpl(False, self.getBestMaskPattern() )
-    def makeImpl(self, test, maskPattern):
 
+    def makeImpl(self, test, maskPattern):
         self.moduleCount = self.typeNumber * 4 + 17
         self.modules = [None for x in range(self.moduleCount)]
 
@@ -105,26 +109,18 @@ class QRCode:
 
         minLostPoint = 0
         pattern = 0
-
         for i in range(8):
-
             self.makeImpl(True, i);
-
             lostPoint = QRUtil.getLostPoint(self);
-
             if (i == 0 or minLostPoint > lostPoint):
                 minLostPoint = lostPoint
                 pattern = i
-
         return pattern
 
     def makeImage(self,pixel_size=4,border_size=1,dark_colour="#000000",light_colour="#ffffff"):
-
         canvas_size = (self.getModuleCount() * pixel_size)
-
         image_canvas = Image.new("RGB", (canvas_size, canvas_size), light_colour)
         image_drawn = ImageDraw.Draw( image_canvas )
-
         for row in range(self.getModuleCount()):
             for column in range(self.getModuleCount()):
                 if self.isDark(row, column) :
@@ -260,6 +256,7 @@ class QRCode:
                             bitIndex = 7
 
                 row += inc
+
 
                 if (row < 0 or self.moduleCount <= row):
                     row -= inc
