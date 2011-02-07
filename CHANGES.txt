@@ -1,3 +1,5 @@
 v0.0.1, Sun Feb  6 06:56:57 CST 2011 -- Initial release.
 v0.0.2, Mon Feb  7 08:20:31 CST 2011 -- removed delivering qrcode images from file, instead we deliver datauri based images inline.
+v0.0.3, Mon Feb  7 12:34:29 CST 2011 -- Errors with REGEX
+v0.0.3.a, Mon Feb  7 12:37:00 CST 2011 -- Errors with REGEX
 
