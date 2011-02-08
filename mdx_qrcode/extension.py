@@ -36,7 +36,6 @@ class QrCodeExtension(markdown.Extension):
 		self.config = {
 			'intPixelSize'  : (  2, 'Pixel Size of each dark and light bit' ),
 			'intCanvasSize' : ( 10, 'Canvas Size of the QRCode' ),
-			'reCapture'     : ( '\[  \]\]', 'Regular expression to capture data')
 		}
 		# Override defaults with user settings
 		for key, value in configs:
